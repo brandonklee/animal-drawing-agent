@@ -1,0 +1,8 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Serverless functions for Animal Drawing Agent",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.100.1"
+  }
+}
